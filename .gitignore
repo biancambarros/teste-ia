@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de ambiente e segredos
+.env
+.env.*
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDEs
+.vscode/
+.idea/
